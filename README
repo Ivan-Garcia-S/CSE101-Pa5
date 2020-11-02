@@ -1,0 +1,12 @@
+/*********************************************************************************
+* Ivan Garcia-Sanchez, igarci33
+* 2020 Spring CSE101 PA5
+* README
+*********************************************************************************
+Dictionary.c: Dictionary implementation file
+Dictionary.h: Dictionary header file
+DictionaryTest.c: Test for dictionaty ADT
+Lex.c: Client file for Dictionary ADT
+README: Contents of project
+Makefile: Makefile for the project
+
